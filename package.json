@@ -1,0 +1,23 @@
+{
+  "name": "check-img-loader",
+  "version": "1.0.0",
+  "description": "Check the src of img(for tb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "qiuying",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^28.1.0",
+    "cheerio": "^1.0.0-rc.10",
+    "js-beautify": "^1.14.3",
+    "memory-fs": "^0.5.0"
+  },
+  "dependencies": {
+    "schema-utils": "^4.0.0"
+  }
+}
